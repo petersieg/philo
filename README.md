@@ -22,7 +22,7 @@ j2me - Java:
 
 Android - APK maker:
 
-![apk](https://github.com/petersieg/philo/blob/master/philo_apk.jpg)
+![apk](https://github.com/petersieg/philo/blob/master/Philo_apk.jpg)
 
 Vectrex - asm:
 
@@ -32,4 +32,7 @@ VMS - dcl:
 
 ![vms](https://github.com/petersieg/philo/blob/master/philo_vms.jpg)
 
+AVR - bascom:
+
+![AVR](https://github.com/petersieg/philo/blob/master/Philo_AVR.jpg)
 
