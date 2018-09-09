@@ -4,6 +4,10 @@ Philosophical sayings displayed. Actually just a nicer hello world type program.
 
 Just char / text output in some way and random text / array selection is required.
 
+MenuetOS / KolibriOS (with tcc source):
+
+![menuet](https://github.com/petersieg/philo/blob/master/menuetos.png)
+
 Atari ST - GFA Basic:
 
 ![atari](https://github.com/petersieg/philo/blob/master/philo_atari_st.jpg)
