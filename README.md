@@ -9,7 +9,8 @@ BTX - Bildschirmtext: https://github.com/bildschirmtext/bildschirmtext
 Das ZIP einfach unter btx_server/data entpacken (da wo auch alle anderen Seiten liegen).
 Im erstelltem Verzeichnis '13' gibt es ein alt bekanntes Programm von mir auf BTX 'umgestellt' ;-)
 ./philo >a.cept - erzeugt eine Weisheit als BTX Seite 'a.cept'.
-(Das kann/sollte man im Hintergrund - evtl. alle 60s ausführen - so wird jede Minute ein anderer Spruch angezeigt).
+(Das kann/sollte man im Hintergrund - evtl. alle 60s ausführen.
+So wird jede Minute ein anderer Spruch angezeigt).
 Über Hauptmenue btx1 mit *13# anwählen.
 ```
 
