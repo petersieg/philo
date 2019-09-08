@@ -36,8 +36,10 @@ j2me - Java:
 
 ![j2me](https://github.com/petersieg/philo/blob/master/philo_j2me.jpg)
 
-Android - APK maker:
-
+Android - MIT App Inventer: http://ai2.appinventor.mit.edu
+<br>
+Philo.aia = MIT App Inventer Projekt File
+<br>
 ![apk](https://github.com/petersieg/philo/blob/master/Philo_apk.jpg)
 
 Vectrex - asm:
