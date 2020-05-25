@@ -4,6 +4,12 @@ Philosophical sayings displayed. Actually just a nicer hello world type program.
 
 Just char / text output in some way and random text / array selection is required.
 
+Arduino - C:
+
+Just arduino and standard lcd display required. Here the lcd on a pollin avr extension board is used.
+
+![arduino](https://github.com/petersieg/philo/blob/master/philo_arduino_lcd.jpg)
+
 BTX - Bildschirmtext: https://github.com/bildschirmtext/bildschirmtext
 ```
 Das ZIP einfach unter btx_server/data entpacken (da wo auch alle anderen Seiten liegen).
