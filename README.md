@@ -52,6 +52,10 @@ Vectrex - asm:
 
 ![vectrex](https://github.com/petersieg/philo/blob/master/philo_vectrex.jpg)
 
+NES - cc65:
+
+![vectrex](https://github.com/petersieg/philo/blob/master/philo_nes.png)
+
 VMS - dcl:
 
 ![vms](https://github.com/petersieg/philo/blob/master/philo_vms.jpg)
