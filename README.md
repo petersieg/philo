@@ -52,9 +52,14 @@ Vectrex - asm:
 
 ![vectrex](https://github.com/petersieg/philo/blob/master/philo_vectrex.jpg)
 
+ZX81 Basic:
+
+![zx81](https://github.com/petersieg/philo/blob/master/philo_zx81.png)
+
+
 NES - cc65:
 
-![vectrex](https://github.com/petersieg/philo/blob/master/philo_nes.png)
+![nes](https://github.com/petersieg/philo/blob/master/philo_nes.png)
 
 VMS - dcl:
 
